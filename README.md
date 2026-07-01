@@ -128,6 +128,8 @@ breast-cancer-detection/
 
 ## 📷 Application
 
+
+![Breast Cancer Detection App](ssofapp.png)
 The Streamlit application allows users to enter diagnostic measurements and instantly predicts whether the tumor is **Benign** or **Malignant**.
 
 ---
